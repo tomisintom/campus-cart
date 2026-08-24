@@ -3,7 +3,6 @@
 ## Overview
 
 CampusCart is a CLI solution for campus vendors to streamline stock tracking, cart totals and receipt generation.
-This is my second project in the Data Epic Mentorship
 
 ## Problem Statement
 
@@ -15,7 +14,7 @@ This is my second project in the Data Epic Mentorship
 - **Lack of Sales Analytics:**
   Vendors cannot easily identify their best-selling items or daily revenue. They operate on guesswork instead of data.
 
-- **Receipt Tracking Friction:**
+- **Teller Monitoring Friction:**
   Students lose paper receipts easily. Vendors have no digital archive to verify past transactions for returns or disputes.
 
 ## Target Audience
