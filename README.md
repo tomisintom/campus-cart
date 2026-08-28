@@ -12,9 +12,7 @@ CampusCart is a CLI solution for campus vendors to streamline stock tracking, ca
   Calculating totals and tax manually during rush hours creates long queues. Students leave without purchasing due to wait times.
 
 - **Lack of Sales Analytics:**
-  Vendors cannot easily identify their best-selling items or daily revenue. They operate on guesswork instead of data.
-
-
+  Vendors cannot easily identify their best-selling items or daily revenue.
 
 - **Receipt Tracking Friction:**
   Students lose paper receipts easily. Vendors have no digital archive to verify past transactions for returns or disputes.
